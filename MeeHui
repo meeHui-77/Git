@@ -1,1 +1,14 @@
-New file here
+#include <iostream>
+using namespace
+
+void greet {
+    cout << "Hello Git" << endl;
+
+}
+
+int main (){
+    greet();
+    return 0;
+
+}
+    
