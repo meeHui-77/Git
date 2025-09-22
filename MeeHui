@@ -3,7 +3,6 @@ using namespace
 
 void greet {
     cout << "Hello Git" << endl;
-
 }
 
 int main (){
